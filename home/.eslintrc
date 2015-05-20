@@ -1,0 +1,20 @@
+{
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true,
+    "meteor": true,
+    "jquery": true
+  },
+  "ecmaFeatures": {
+    "jsx": true,
+    "modules": true
+  },
+  "rules": {
+    "eqeqeq": true,
+    "wrap-iife": true,
+    "camelcase": true,
+    "indent": [2, 2],
+    "quotes": [1, "single"]
+  }
+}
