@@ -16,5 +16,6 @@
     "camelcase": true,
     "indent": [2, 2],
     "quotes": [1, "single"]
-  }
+  },
+  "plugins": ["react"]
 }
