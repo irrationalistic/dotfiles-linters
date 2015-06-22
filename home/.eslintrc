@@ -15,7 +15,10 @@
     "wrap-iife": true,
     "camelcase": true,
     "indent": [2, 2],
-    "quotes": [1, "single"]
+    "quotes": [1, "single"],
+    "no-unused-vars": false,
+    "no-underscore-dangle": false,
+    "no-shadow": false
   },
   "plugins": ["react"]
 }
