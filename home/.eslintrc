@@ -18,6 +18,7 @@
     "quotes": [1, "single"],
     "no-unused-vars": false,
     "no-underscore-dangle": false,
+    "no-loop-func": false,
     "no-shadow": false
   },
   "plugins": ["react"]
